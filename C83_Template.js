@@ -1,8 +1,9 @@
 var images = ["https://i.postimg.cc/MKdhy06Z/family.jpg","https://i.postimg.cc/L6HcYQM0/grand-father.png", "https://i.postimg.cc/wjMnFtMX/father.jpg" , "https://i.postimg.cc/bw5W5zSK/mother.jpg", "https://i.postimg.cc/5ymDKL83/bro.jpg", "https://i.postimg.cc/JnL6wtrd/sister.jpg"];
 
-var names = ["Family Book","Ranbir Singh - Grandfather", "Diljeet Singh - Father", "Alia Singh - Mother", "Rocky Singh - Brother", "Soni Singh - Sister"];
+var names = ["Family Book"," Grandfather", "Peter Adejuwon - Father",
+ "Mary Adejuwon- Mother", "Patrick Adejuwon - Brother", "Eucharia Adejuwon - Sister"];
 
-var age = [60, 40, 60, 30, 25, 20]
+var age = [0, 60, 40, 30, 11, 7]
 
 /*
 
@@ -12,7 +13,7 @@ Write: "age.sort()"
 
 */
 
-age.sort();
+//age.sort();
 
 /*
 
@@ -22,7 +23,7 @@ After sorting the array "age", all the elements must be arranged in an ascending
 Write: "age.reverse()"
 
 */
-age.reverse();
+//age.reverse();
 
 var i = 0;
 
